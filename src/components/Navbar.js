@@ -120,7 +120,7 @@ export function Navbar() {
               }}
               className="block w-full rounded-xl px-3 py-3 text-left text-sm font-medium text-foreground"
             >
-              Sign out ({username})
+              Sign out
             </button>
           ) : (
             <Link
